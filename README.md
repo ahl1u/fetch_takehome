@@ -1,8 +1,8 @@
-# Points Tracking API
-
+## Points Tracking API
+ 
 This project implements a simple REST API for tracking point transactions with payers. The API allows for adding points, spending points based on the oldest first, and checking balances.
 
-## Endpoints
+# Endpoints
 
 1. **Add Points**
    - **Route**: `/add`
