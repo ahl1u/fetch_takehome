@@ -1,0 +1,19 @@
+**1. Why did you choose the tools, libraries, and language you used for the coding exercise?**
+
+I am most familiar with Python for algorithmic problem-solving, which made it an easy choice for this assignment. 
+Flask is also lightweight and simple for building standalone APIs which made sense as it made setup and development easy.
+Lastly, Postman was good to test the API as the requests were quite simple and hence the ease of use was optimal.
+
+**2. What are the advantages and disadvantages of your solution?**
+
+Main benefits:
+My solution was quite efficient for processing transactions as I used a deque which allows for constant time when processing transactions for the spend function.
+Moreover, using things like defaultdicts made the code very simple. Lastly, Flask is very intuitive to test.
+
+Main disadvantage:
+Not very scalable since everything is handled in memory, I'd rather use a database if we intended to store the info of many customers. 
+
+**3. What has been a favorite school/personal project thus far? What about it that challenged you?**
+
+My favorite personal project has been Classmate, a course scheduling tool I made for my fellow students to use. It was the first time I built an application that many people would genuinely be using, and ensuring 
+constant uptime was quite difficult.
